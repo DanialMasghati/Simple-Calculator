@@ -1,0 +1,7 @@
+flake8==6.1.0
+mccabe==0.7.0
+pycodestyle==2.11.1
+pyflakes==3.1.0
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0

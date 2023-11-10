@@ -61,4 +61,4 @@ The calculator UI consists of a main window with a display for input and output,
 
 ## License
 
-This calculator application is provided under the [MIT License](LICENSE). Feel free to use and modify the code according to your needs.
+This calculator application It does not currently have a license.
